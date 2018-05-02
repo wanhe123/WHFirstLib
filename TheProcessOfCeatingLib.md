@@ -4,9 +4,9 @@
 #### 1、代码上传Github
 
 首先我们打开github.com，然后创建自己的项目工程：
-```
+
 ![创建项目工程](/images/create_repository.png)
-```
+
 这里注意那个MIT License，在后面添加Cocoapods支持的时候会用到（稍后介绍）。然后点击创建即可。
  然后用SouceTree将代码down到本地，将自己的项目放到里面，文件夹如图所示：
  
@@ -78,7 +78,7 @@ pod lib lint WHFirstLib.podspec --allow-warnings
 
 ![创建releases1](/images/create_releases1.png)
 
-点击 箭头指向开始创建release版本，（点击 Create a new release）：
+点击箭头指向开始创建release版本，（点击 Create a new release）：
 
 ![创建releases2](/images/create_releases2.png)
 
@@ -138,6 +138,7 @@ pod search WHFirstLib
 ![检查上传是否成功](/images/test_validity2.png)
 
 这样就可以让其他人进行搜索使用了。
+
 
 
 [原链接：http://www.cnblogs.com/zhanggui/p/6003481.html](http://www.cnblogs.com/zhanggui/p/6003481.html)
