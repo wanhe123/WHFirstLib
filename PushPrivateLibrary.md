@@ -64,5 +64,5 @@ pod spec lint [HelloWorld.podspec] --allow-warnings --sources='git@gitlab.xxx.gi
 ```
 pod repo push REPO_NAME ~/Desktop/HelloWorld.podspec
 ```
-执行成功后 我们就把项目成功的添加到私有库中了
-[链接：http://guides.cocoapods.org/making/private-cocoapods]http://guides.cocoapods.org/making/private-cocoapods
+执行成功后 我们就把项目成功的添加到私有库中了  
+[链接：http://guides.cocoapods.org/making/private-cocoapods](http://guides.cocoapods.org/making/private-cocoapods)
