@@ -62,7 +62,7 @@ pod spec lint [HelloWorld.podspec] --allow-warnings --sources='git@gitlab.xxx.gi
 
 ~/Desktop/HelloWorld.podspec podspec文件的路径
 ```
-pod repo push REPO_NAME ~/Desktop/HelloWorld.podspec
+pod repo push REPO_NAME ~/Desktop/HelloWorld.podspec --allow-warnings
 ```
 执行成功后 我们就把项目成功的添加到私有库中了  
 [链接：http://guides.cocoapods.org/making/private-cocoapods](http://guides.cocoapods.org/making/private-cocoapods)
